@@ -17,7 +17,7 @@
 | **Animations** | Basic CSS keyframes | GSAP ScrollTrigger, kinetic typography |
 | **Interactions** | Standard hover states | Custom cursor, magnetic buttons, parallax |
 | **Navigation** | Single page static | Scroll-driven narrative journey |
-| **Performance** | Acceptable | Lighthouse 90+, LCP &lt;2.5s |
+| **Performance** | Acceptable | Lighthouse 90+, LCP <2.5s |
 | **Output Quality** | High (5-agent processing) | **Unchanged** — core AI remains identical |
 
 ### Awwwards Target Scores
@@ -261,9 +261,9 @@ idle, anticipating, working, complete, celebrating, sleeping
 ### Performance Targets
 - Lighthouse Performance: 90+
 - Lighthouse Accessibility: 95+
-- LCP: &lt; 2.5s
-- CLS: &lt; 0.1
-- Bundle (JS): &lt; 200KB gzipped
+- LCP: < 2.5s
+- CLS: < 0.1
+- Bundle (JS): < 200KB gzipped
 
 ### Optimization
 - Animate only transform/opacity (GPU-accelerated)
@@ -332,8 +332,8 @@ brain-dump-2.0/
 ### Technical Metrics
 - Lighthouse: 90+ all categories
 - Animation: 60fps consistent
-- LCP: &lt; 2.5s
-- Bundle: &lt; 200KB
+- LCP: < 2.5s
+- Bundle: < 200KB
 
 ---
 
